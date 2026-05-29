@@ -101,7 +101,7 @@ If you want to focus on the experimental side, I can explain how pulsar timing a
 
 
 
-
+# ideas
 
 ### Light Cone - Summary (with the key maths)
 
